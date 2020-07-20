@@ -2,7 +2,7 @@
 
 I'm currently solving supply chain problems
 
-Love all things golang. 
+& love all things golang. 
 
 <!--
 **cbergoon/cbergoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

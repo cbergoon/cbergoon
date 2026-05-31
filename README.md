@@ -1,20 +1,31 @@
-### Greetings from Ohio 👋
+<pre>
+███╗   ███╗████████╗ ██████╗██╗  ██╗██╗
+████╗ ████║╚══██╔══╝██╔════╝██║  ██║██║
+██╔████╔██║   ██║   ██║     ███████║██║
+██║╚██╔╝██║   ██║   ╚██████╗██║  ██║███████╗
+╚═╝     ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝╚══════╝
+the hidden architecture of how software works
 
-I'm currently solving supply chain problems
+Cameron — Creator at <a href="https://mtchl.dev">mtchl.dev</a>
 
-& love all things golang. 
+<b>What.</b>
+─────────────────────────────────────────────────────────────────────────
+▸ Build, ship in public, and write the stories the model has never lived.
+▸ Deep systems.
+▸ Strong takes.
 
-<!--
-**cbergoon/cbergoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building the AI-and-data backbone that the supply chain is about to run on.
 
-Here are some ideas to get you started:
+I work on the systems behind moving real-world freight, goods, and information.
+The infrastructure most people never see.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On the side, I build indie products in public and write at <a href="https://mtchl.dev">mtchl.dev</a> about the
+architecture hiding underneath the things we use every day.
+
+<b>Currently.</b>
+──────────────────────────────────────────────────────
+▸  Shipping  →  supply chain + AI/data systems
+▸  Building  →  Dockd + indie products
+▸  Writing   →  The Hidden Architecture of Information
+▸  In Public →  proof of work over hot takes
+</pre>

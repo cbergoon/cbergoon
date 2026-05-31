@@ -11,8 +11,7 @@ Cameron — Creator at <a href="https://mtchl.dev">mtchl.dev</a>
 <b>What.</b>
 ─────────────────────────────────────────────────────────────────────────
 ▸ Build, ship in public, and write the stories the model has never lived.
-▸ Deep systems.
-▸ Strong takes.
+▸ Deep systems. Strong takes.
 
 Building the AI-and-data backbone that the supply chain is about to run on.
 
@@ -25,7 +24,6 @@ architecture hiding underneath the things we use every day.
 <b>Currently.</b>
 ──────────────────────────────────────────────────────
 ▸  Shipping  →  supply chain + AI/data systems
-▸  Building  →  Dockd + indie products
+▸  Building  →  indie products + Dockd
 ▸  Writing   →  The Hidden Architecture of Information
-▸  In Public →  proof of work over hot takes
 </pre>

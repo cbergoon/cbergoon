@@ -11,13 +11,11 @@ Cameron — at <a href="https://mtchl.dev">mtchl.dev</a>
 <b>What.</b>
 ─────────────────────────────────────────────────────────────────────────
 ▸ Build, ship in public, and write the stories the model has never lived.
-▸ Deep systems. Strong takes.
 
 Engineer. Writing about enterprise computation, data systems, AI, and the 
 software architecture most of us never see.
   
 On the side, I build indie products in public and write at <a href="https://mtchl.dev">mtchl.dev</a> 
-about the architecture hiding underneath the things we use every day.
 
 <b>Currently.</b>
 ──────────────────────────────────────────────────────
